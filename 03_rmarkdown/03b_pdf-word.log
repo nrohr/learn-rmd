@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.15)  16 SEP 2020 08:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.15)  16 SEP 2020 09:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -458,13 +458,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 171.
+(amsmath)                 on input line 169.
 
 <03b_pdf-word_files/figure-latex/hpi-plot-1.pdf, id=61, 469.755pt x 325.215pt>
 File: 03b_pdf-word_files/figure-latex/hpi-plot-1.pdf Graphic file (type pdf)
 <use 03b_pdf-word_files/figure-latex/hpi-plot-1.pdf>
 Package pdftex.def Info: 03b_pdf-word_files/figure-latex/hpi-plot-1.pdf  used o
-n input line 179.
+n input line 181.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 <03b_pdf-word_files/figure-latex/unnamed-chunk-1-1.pdf, id=62, 469.755pt x 325.
 215pt>
@@ -472,27 +472,27 @@ File: 03b_pdf-word_files/figure-latex/unnamed-chunk-1-1.pdf Graphic file (type
 pdf)
 <use 03b_pdf-word_files/figure-latex/unnamed-chunk-1-1.pdf>
 Package pdftex.def Info: 03b_pdf-word_files/figure-latex/unnamed-chunk-1-1.pdf 
- used on input line 185.
+ used on input line 187.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 [2 <./03b_pdf-word_files/figure-latex/hpi-plot-1.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 198.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 200.
 [3 <./03b_pdf-word_files/figure-latex/unnamed-chunk-1-1.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 198.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 200.
 (./03b_pdf-word.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 198.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 198.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 200.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 200.
 Package rerunfilecheck Info: File `03b_pdf-word.out' has not changed.
 (rerunfilecheck)             Checksum: 220CF3A0809D4A34C95BB5793A01E59D;1081.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 198.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 200.
  ) 
 Here is how much of TeX's memory you used:
  10527 strings out of 482824
  150778 string characters out of 5952456
- 398257 words of memory out of 5000000
+ 397257 words of memory out of 5000000
  25693 multiletter control sequences out of 15000+600000
  594292 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 43i,8n,37p,271b,378s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,8n,37p,271b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/nrohr/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/U
 sers/nrohr/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/Users/
 nrohr/Library/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/Users/nrohr
@@ -513,7 +513,7 @@ yTeX/texmf-dist/fonts/type1/public/lm/lmri10.pfb></Users/nrohr/Library/TinyTeX/
 texmf-dist/fonts/type1/public/lm/lmsy10.pfb></Users/nrohr/Library/TinyTeX/texmf
 -dist/fonts/type1/public/lm/lmsy7.pfb></Users/nrohr/Library/TinyTeX/texmf-dist/
 fonts/type1/public/lm/lmtt10.pfb>
-Output written on 03b_pdf-word.pdf (3 pages, 267780 bytes).
+Output written on 03b_pdf-word.pdf (3 pages, 267906 bytes).
 PDF statistics:
  156 PDF objects out of 1000 (max. 8388607)
  130 compressed objects within 2 object streams
