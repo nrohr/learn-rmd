@@ -61,6 +61,7 @@ As you can see throughout this document, you can do a lot of things with Markdow
 * Create section headings with `#` (and subheadings with `##`, `###`, `####`, ...)
 * Create ordered lists with 1., 2., 3., ... and unordered lists with `*`, `-`, or `+`
 * Create footnotes with `^[]`^[this is a footnote]
+* Create math equations with LaTeX syntax: $f(k) = {n \choose k} p^{k} (1-p)^{n-k}$
 
 We can also do really neat things like create tabs in our HTML doc:
 

@@ -3,8 +3,8 @@ title: "R Markdown - PDF & Word Output"
 author: "Nick Rohrbaugh"
 date: "9/15/2020"
 output:
-  pdf_document: default
   word_document: default
+  pdf_document: default
 ---
 
 ```{r setup, echo = FALSE, message = FALSE, warning = FALSE}
@@ -59,6 +59,7 @@ As you can see throughout this document, you can do a lot of things with Markdow
 * Create section headings with `#` (and subheadings with `##`, `###`, `####`, ...)
 * Create ordered lists with 1., 2., 3., ... and unordered lists with `*`, `-`, or `+`
 * Create footnotes with `^[]`^[this is a footnote]
+* Create math equations with LaTeX syntax: $f(k) = {n \choose k} p^{k} (1-p)^{n-k}$
 
 # House Price Index 
 
